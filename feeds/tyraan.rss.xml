@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pearl of Shell</title><link>/</link><description></description><atom:link href="/feeds%5Ctyraan.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0100</lastBuildDate><item><title>Hello World.</title><link>/hello-world.html</link><description>&lt;p&gt;Hello World, this is a blog start by Pelican.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tyraan</dc:creator><pubDate>Sat, 01 Nov 2014 00:00:00 +0100</pubDate><guid>tag:,2014-11-01:hello-world.html</guid></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>蟒之书</title><link>http://tyraan.github.io/</link><description></description><atom:link href="http://tyraan.github.io/feeds%5Ctyraan.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 02 Nov 2014 00:00:00 +0800</lastBuildDate><item><title>Firstday</title><link>http://tyraan.github.io/firstday.html</link><description>&lt;p&gt;今天开始使用pelican 和markdown写博客，以前用django折腾出来的博客决定暂时搁置了。
+毕竟django折腾博客有种杀鸡牛刀的赶脚，3天以来一直在折腾pelican和django。
+pelican感觉不错，博客也不需要动态效果，
+django社区里能人众多，让人看到我这博客的丑样就丢大人了。
+这几年python发展速度非常快，成为在前端技术中成为重要的工具，要成为合格的御蟒师，要学的东西可真不少。
+希望以后能更深刻的掌握这些技术吧。
+么么哒~&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">tyraan</dc:creator><pubDate>Sun, 02 Nov 2014 00:00:00 +0800</pubDate><guid>tag:tyraan.github.io,2014-11-02:firstday.html</guid><category>日常，普通</category></item><item><title>Hello World.</title><link>http://tyraan.github.io/hello-world.html</link><description>&lt;p&gt;Hello World, this is a blog start by Pelican.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tyraan</dc:creator><pubDate>Sat, 01 Nov 2014 00:00:00 +0800</pubDate><guid>tag:tyraan.github.io,2014-11-01:hello-world.html</guid></item></channel></rss>
